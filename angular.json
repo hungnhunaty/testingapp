@@ -19,12 +19,8 @@
             "outputPath": "dist/AngularProject",
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",      
-            "assets": [
-              {
-                "glob": "**/*",
-                "input": "public"
-              }
-            ],
+            "assets": ["src/favicon.ico", "public"],
+
             "styles": [
               "src/styles.css"
             ]
