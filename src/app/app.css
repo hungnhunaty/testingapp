@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+.btn{
+    margin-left: 10px; 
+    margin-right: 10px;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    border-radius: 50%;
+}
+.yes{
+    color:green;
+}
+.no{
+    color:red;
+}
